@@ -14,7 +14,12 @@
 
 [프로그래머스](https://programmers.co.kr/)
 
+
 ### 사용언어
 * Python
 * C
 * C++
+
+### 알고리즘 가이드
+
+[공부 순서](https://baactree.tistory.com/52)
