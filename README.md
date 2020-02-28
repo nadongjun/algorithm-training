@@ -6,7 +6,7 @@
 파이썬 기본 문법에 대해 공부합니다.
 ```
 
-### 알고리즘 문제풀이 사이트
+## 알고리즘 문제풀이 사이트
 
 [백준](https://www.acmicpc.net/problem/tags)
 
@@ -15,11 +15,11 @@
 [프로그래머스](https://programmers.co.kr/)
 
 
-### 사용언어
+## 사용언어
 * Python
 * C
 * C++
 
-### 알고리즘 가이드
+## 알고리즘 가이드
 
 [공부 순서](https://baactree.tistory.com/52)
